@@ -1,2 +1,5 @@
-# anota-es-curso-ads-senac
-Anotações feitas durante o curso de Análise e Desenvolvimento de Sistemas - EAD, SENAC
+# Anotações feitas ao longo do corso de analíse e desenvolvimento de sistêmas
+
+## 1ª Semestre
+[Conceitos de computação I](/conceitos-de-computacao-1.html)
+[Pesquisa, tecnologia e sociedade](/pesquisa-tecnologia-e-sociedade.md)
