@@ -50,3 +50,46 @@ Fatores determinantes da dependência:
 - Escassez
 - Importância
 - Não substituição
+
+### Aula 6
+### Aula 7
+### Aula 8
+
+## Unidade 3
+### Aula 9
+**Perspectiva neoclássica** 
+Resgata os princíos da adminstração clássica, assimila as evoluções das perspectivas que surgiram, mas foca na eficácia, mantendo o foco em atingir os objetivos e compreendendo a adminstração como uma processo.
+
+**As funções do administrador**
+- PLanejamento
+- Organização
+- Direção
+- Controle
+
+**A adminstração por aobjetivos** visa alinhar as percepções compatilhadas por gerêntes e subordinados, seja como indivíduos ou como grupo, tendo em vista os seguintes princípios:
+- Objetivos especícicos - por área ou equipe, estabelecendo metas mensuráveis.
+- Tempo definido - prazo final e prazos intermediários para verificar o desempenho da equipe.
+- Feedback sobre o desempenho - ocorre ao longo do processo e ao final, após a avaliação, se necessário define um novo plano de ação para lidar com os desenpenhos que tenham ficado abaixo da expectativa (treinamento)
+
+**Perspectiva da qualidade**
+Pode-se destacar quatro "eras":
+- Inspeção 
+- Controle estatístico da qualidade 
+- Garantia da qualidade 
+- Gerenciamento estratégico da qualidade
+
+"A definição da qualidade envolve a satisfação dos clientes com os bens e serviços recebidos." São as principais definições de qualidade:
+- Qualidade como excelência
+- Qualidade como conformidade às especificações
+- Qualidade como relação entre valor e preço
+- Qualidade como adequação ao uso
+
+A gestão pela qualidade total inclui no processo de garantia da qualidade o envolvimento de todas as partes interessadas: funcionários, clientes, fornecedores, no sentido de implementar uma cultura voltada à qualidade, evitando desperdícios e primando pelo uso racional dos recursos.
+Os sistemas de certificação são uma forma de implementar e mater sistemas de qualidade em organizações através da orientação e fiscalização dos processos por meio de instituições externas à empresa, seguindo padrões de qualidade nacionais ou internacionais.
+
+O **modelo japonês de admnistração** tem pro principal foco evitar todo tipo de desperdício, seja de tempo, recurso ocioso, ou atividade desnecessária, minimizar erros, e enxugar processos.
+
+### Aula 10 - Administração participativa e a colaboração com a dinâmica organizacional
+Tem por base a idéia de democracia, por tanto é muito mais filosófica e política do que tecnica. Trata-se da maneira como os aspectos técnicos estão coordenados com as relações humansas e processos da organização. O processo decisório não está centralizado, bem como as informações necessárias para este estão acessíveis aos colaboradores, exigindo flexibilidade da alta direção, pois os gestores tomam decisões juntamente com os subordinados. 
+
+
