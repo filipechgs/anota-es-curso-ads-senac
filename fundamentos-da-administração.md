@@ -1,9 +1,22 @@
 # Fundamentos da Administração
+## Unidade 1
+**Taylor e a administração científica** tinham como foco a eficiência e racionalização do trabalho. São cinco aspectos que caracterizam o sistema proposto por ele:
+
+- Análise do trabalho e estudo dos tempos e movimentos
+- Padronização das ferramentas
+- Seleção e treinamento dos trabalhadores
+- Supervisão e planejamento
+- Pagamento por produção
+
+Princícios da administração científica:
+- Princípio do planejamento
+- 
+
 
 ## Unidade 2 
 ### Aula 5 - A burocracia no ambiente de negóciois e o poder nas organizações 
 
-A burocracia concebida por Weber é diferente do que consideramos no senso comum. É pautada pelo carater recional das atividades e adminstração, são seus princípios a:
+A **burocracia** concebida por Weber é diferente do que consideramos no senso comum. É pautada pelo carater recional das atividades e adminstração, são seus princípios a:
 
 - Racionalidade  na divisão do trabalho;
 - Hierarquia de autoridade, co responsabilidades, deveres específicos e privilégios bem definidos;
@@ -90,6 +103,34 @@ Os sistemas de certificação são uma forma de implementar e mater sistemas de 
 O **modelo japonês de admnistração** tem pro principal foco evitar todo tipo de desperdício, seja de tempo, recurso ocioso, ou atividade desnecessária, minimizar erros, e enxugar processos.
 
 ### Aula 10 - Administração participativa e a colaboração com a dinâmica organizacional
-Tem por base a idéia de democracia, por tanto é muito mais filosófica e política do que tecnica. Trata-se da maneira como os aspectos técnicos estão coordenados com as relações humansas e processos da organização. O processo decisório não está centralizado, bem como as informações necessárias para este estão acessíveis aos colaboradores, exigindo flexibilidade da alta direção, pois os gestores tomam decisões juntamente com os subordinados. 
+Tem por base a idéia de democracia, por tanto é muito mais filosófica e política do que tecnica. Trata-se da maneira como os aspectos técnicos estão coordenados com as relações humansas e processos da organização. O processo decisório não está centralizado, bem como as informações necessárias para este estão acessíveis aos colaboradores, exigindo flexibilidade da alta direção, pois os gestores tomam decisões juntamente com os subordinados. Contudo, a autoridade do gestor não fica comprometida.
+
+Envolve:
+- Compatilhar as decisões que afetam a empresa
+- Liderança diretiva, participativa e estratégica
+- Facilitar o comprometimento dos profissionais nos processos de tomada de decisão
+
+Envolve também o **papel das pessoas nas organização** que pode ser de:
+- Executoras de tarefas
+- Melhoradoras da quaidade
+- Paticipantes de equipes
+- Responsáveis por metas e resultados
+- Integrantes de uma cadeia de valor e geradoras de valor
+
+**A nomeação dada às pessoas em uma organização tende a refletir a forma como elas são vistas e tratadas**
+
+A **administração participativa** está na base da **gestão colaborativa**. "A gestão colaborativa tem como pressuposto o envolvimento de todos os colaboradores nos processos e decisões de uma organização. Assim, busca cruzar as diversas opiniões das pessoas que participam direta ou indiretamente do negócio"
+
+### Aula 11 - Novos modelos de administração e a responsabilidade socioambiental
+**Complexidade**
+O primeiro fator a ser levado em consideração é a complexidade, que implica em voltar-se para as partes e também para o todo, buscando apreender as correlaçãoes e interdependências. Pois, uma organização é um todo composto por uma série de agentes e fatores, internos e externos. dentre as complexidades a serem consideradas talvez a mais relevante seja o capital humano, compreendido como a totalidade das seguintes partes: pessoas e suas habilidades tecnicas e interpessoáis, e a cultura organizacional. Diante das constantes e rapidas mudanças sociáis e tecnológicas a perspectiva da complexidade torna-se extremamente necessária, pois modelos tradicionais e engessados de gestão acabam se mostrando ineficiéntes e inadequados para lidar de maneira eficaz e eficiente com as transformações. 
+A complexidadade também a presenta-se como um modo de enxergar o modelo de gestão das organizações. Sendo os menos complexos os modelos tradicionáis, voltados para atividades rotineiras e mecânicas. As de média complexidade aquelas que utilizam novas tecnolgias e voltam-se para para as pessoas e a motivição destas no trabalho. E as de maior complexidade como os modelos organizacionais que trabalham com tecnologia de ponta, alto grau de independência, enfase no trabalho de grupo e na abordagem contingencial.
+
+**Empresas vituáis**
+São as empresas que tem a sua atividade, seja de comercio ou serviço, totalmente realizadas por meios digitáis, incluindo o proprio trabalho dos colaboradores, que trabalham de maneira remota valendo-se de meios digitáis, informatizados. Esse contexto torna obsolote uma série de paradigmas da administração, abrindo todo um novo compo de estudo e atuação.
+
+**Empreendedorismo social**
+Tem por fundamento a consideração do aspecto ético, compreendendo o impacto do empreendimento na vida das pessoas, na sociedade e nas relações humanas.
+
 
 
